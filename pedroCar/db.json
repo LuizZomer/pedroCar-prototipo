@@ -1,0 +1,8 @@
+{
+    "produtos":[
+        {"nome":"Refuseta", "id":1},
+        {"nome":"Parafuso biométrico", "id":2},
+        {"nome":"Desempenador de vidro", "id":3},
+        {"nome":"ééé", "id":4}
+    ]
+}
